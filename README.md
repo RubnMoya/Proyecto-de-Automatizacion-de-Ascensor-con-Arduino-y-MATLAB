@@ -1,11 +1,11 @@
-# 🚀 Sistema de Ascensor Inteligente con Arduino y MATLAB
+#  Sistema de Ascensor Inteligente con Arduino y MATLAB
 
 Sistema de control de un ascensor de 2 plantas implementado con :contentReference[oaicite:0]{index=0} y :contentReference[oaicite:1]{index=1}.  
 El proyecto simula el funcionamiento de un ascensor real mediante control embebido, comunicación serial y una máquina de estados.
 
 ---
 
-# 🎯 Objetivo del proyecto
+#  Objetivo del proyecto
 
 Diseñar e implementar un sistema de ascensor automatizado capaz de:
 
@@ -16,7 +16,7 @@ Diseñar e implementar un sistema de ascensor automatizado capaz de:
 
 ---
 
-# 🧠 Funcionamiento del sistema
+#  Funcionamiento del sistema
 
 El sistema se basa en comunicación serial entre MATLAB y Arduino:
 
@@ -36,7 +36,7 @@ MATLAB ⇄ Comunicación Serial ⇄ Arduino ⇄ Motor + Sensores
 
 ---
 
-# ⚙️ Tecnologías utilizadas
+#  Tecnologías utilizadas
 
 - Arduino UNO
 - MATLAB
@@ -46,7 +46,7 @@ MATLAB ⇄ Comunicación Serial ⇄ Arduino ⇄ Motor + Sensores
 
 ---
 
-# 🏗️ Arquitectura del sistema
+#  Arquitectura del sistema
 
 - **MATLAB:** interfaz, control y supervisión  
 - **Arduino:** control físico del ascensor  
@@ -55,7 +55,7 @@ MATLAB ⇄ Comunicación Serial ⇄ Arduino ⇄ Motor + Sensores
 
 ---
 
-# 📁 Estructura del repositorio
+#  Estructura del repositorio
 
 ```text
 docs/
@@ -75,7 +75,7 @@ videos/
 
 ---
 
-# 📄 Documentación
+#  Documentación
 
 Toda la documentación del proyecto se encuentra en la carpeta `docs/`:
 
@@ -87,7 +87,7 @@ Toda la documentación del proyecto se encuentra en la carpeta `docs/`:
 
 ---
 
-# 🖼️ Imágenes del sistema
+#  Imágenes del sistema
 
 - Modelo 3D del ascensor
 - Montaje físico del sistema
@@ -96,7 +96,7 @@ Se encuentran en la carpeta `images/`.
 
 ---
 
-# 🎥 Demostración
+#  Demostración
 
 Vídeo del sistema funcionando:
 
@@ -106,7 +106,7 @@ videos/funcionamiento.mp4
 
 ---
 
-# 🔌 Componentes principales
+#  Componentes principales
 
 - Arduino UNO  
 - Motor DC / Servo  
@@ -117,7 +117,7 @@ videos/funcionamiento.mp4
 
 ---
 
-# 🚀 Resultados
+#  Resultados
 
 El sistema permite:
 
@@ -127,14 +127,3 @@ El sistema permite:
 - Visualización del estado en tiempo real
 
 ---
-
-# 👤 Autor
-
-- Proyecto académico 
-- Año: 2024  
-
----
-
-# 📜 Licencia
-
-Este proyecto está bajo licencia MIT.
