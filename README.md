@@ -1,7 +1,6 @@
 #  Sistema de Ascensor Inteligente con Arduino y MATLAB
 
-Sistema de control de un ascensor de 2 plantas implementado con :contentReference[oaicite:0]{index=0} y :contentReference[oaicite:1]{index=1}.  
-El proyecto simula el funcionamiento de un ascensor real mediante control embebido, comunicación serial y una máquina de estados.
+Sistema de control de un ascensor de 2 plantas.
 
 ---
 
